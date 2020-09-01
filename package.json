@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-theme-xo",
+  "version": "0.0.1",
+  "description": "A vuepress theme project.",
+  "main": "index.js",
+  "repository": "git@github.com:Hellottxo/vuepress-theme-xo.git",
+  "author": "654720416@qq.com",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
